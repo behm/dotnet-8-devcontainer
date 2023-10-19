@@ -11,7 +11,7 @@ Why would we want this?
 
 ## Findings
 
-You can start with the existing *Docker on Docker* or *Docker on Docker Compose* dev container.  Once
+You can start with the existing *Docker outside of Docker* or *Docker outside of Docker Compose* dev container.  Once
 the .devcontainer folder is created, change the base Docker image to:
 
 `mcr.microsoft.com/dotnet/sdk:8.0`
