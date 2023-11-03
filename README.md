@@ -11,6 +11,9 @@ Why would we want this?
 
 ## Findings
 
+Docker .NET SDK images can be found here, including the latest .NET 8 RC:
+https://hub.docker.com/_/microsoft-dotnet-sdk/
+
 You can start with the existing *Docker outside of Docker* or *Docker outside of Docker Compose* dev container.  Once
 the .devcontainer folder is created, change the base Docker image to:
 
